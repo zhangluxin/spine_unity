@@ -1,0 +1,9 @@
+{
+	"name": "com.yygame.spine",
+	"displayName": "spine runtime",
+	"description": "用来运行spine的运行库",
+	"version": "1.0.9",
+	"unity": "2020.1",
+	"license": "MIT",
+	"dependencies": {}
+}

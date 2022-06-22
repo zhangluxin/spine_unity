@@ -1,0 +1,17 @@
+{
+    "name": "SpineUnity_Editor",
+    "references": [
+        "GUID:f4aeb1fd8904f46c4a8df6e4304d2fe1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
